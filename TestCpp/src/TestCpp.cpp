@@ -17,5 +17,9 @@ int main() {
 	string data = "add new output!";
 	cout << data << endl;
 
+	for ( int i=0 ; i< 10; i++){
+		cout << "no." << i << endl;
+	}
+
 	return 0;
 }
