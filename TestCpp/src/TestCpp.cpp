@@ -13,9 +13,9 @@ using namespace std;
 
 int main() {
 	cout << "master brach Ver.1.0" << endl;
-	cout << "this is hotfix1 branch for bug fix ver.1.0.1"
-	cout << "hotfix1 is finished ver.1.0.2"
-	cout << "master branch update Ver.2.0"
+	cout << "this is hotfix1 branch for bug fix ver.1.0.1" << endl;
+	cout << "hotfix1 is finished ver.1.0.3" << endl;
+	cout << "master branch update Ver.2.0" << endl;
 
 	return 0;
 }
