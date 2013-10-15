@@ -12,7 +12,8 @@
 using namespace std;
 
 int main() {
-	cout << "master brach Ver.1.0" << endl; // prints !!!Hello World!!!
+	cout << "master brach Ver.1.0" << endl;
+	cout << "this is hotfix1 branch for bug fix ver.1.0.1"
 
 	return 0;
 }
