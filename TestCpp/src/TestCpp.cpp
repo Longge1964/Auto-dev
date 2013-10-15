@@ -14,7 +14,7 @@ using namespace std;
 int main() {
 	cout << "master brach Ver.1.0" << endl; // prints !!!Hello World!!!
 	cout << "master branch update Ver.2.0";
-	cout << "master branch update ver.2.0.1";
+	cout << "master branch update ver.2.0.2";
 
 	return 0;
 }
